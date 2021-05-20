@@ -1,2 +1,2 @@
 # Karaoke
-En este repositorio creare un karaoke en el lenguaje de java.
+En este repositorio se subira la creacion de una karaoke con canciones que estan almacenadas, estas canciones cambiaran con el pasar del tiempo.
